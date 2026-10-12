@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\demoCtr\demoCtr\bin\Debug\demoCtr.exe.config
+C:\Users\Admin\source\repos\demoCtr\demoCtr\bin\Debug\demoCtr.exe
+C:\Users\Admin\source\repos\demoCtr\demoCtr\bin\Debug\demoCtr.pdb
+C:\Users\Admin\source\repos\demoCtr\demoCtr\obj\Debug\demoCtr.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\demoCtr\demoCtr\obj\Debug\demoCtr.Form1.resources
+C:\Users\Admin\source\repos\demoCtr\demoCtr\obj\Debug\demoCtr.Properties.Resources.resources
+C:\Users\Admin\source\repos\demoCtr\demoCtr\obj\Debug\demoCtr.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\demoCtr\demoCtr\obj\Debug\demoCtr.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\demoCtr\demoCtr\obj\Debug\demoCtr.exe
+C:\Users\Admin\source\repos\demoCtr\demoCtr\obj\Debug\demoCtr.pdb
+C:\Users\Admin\source\repos\demoCtr\demoCtr\obj\Debug\demoCtr.Form2.resources
+C:\Users\Admin\source\repos\demoCtr\demoCtr\obj\Debug\demoCtr.Form3.resources
