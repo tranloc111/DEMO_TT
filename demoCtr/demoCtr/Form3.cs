@@ -15,6 +15,12 @@ namespace demoCtr
         public Form3()
         {
             InitializeComponent();
+            MessageBox.Show("file nay ok rooi");
+        }
+
+        private void Form3_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
